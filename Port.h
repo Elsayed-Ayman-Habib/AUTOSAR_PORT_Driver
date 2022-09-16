@@ -13,7 +13,7 @@
 #define PORT_H
 
 /* Id for the company in the AUTOSAR
- * for example Amr Amin's ID = 1000 ;) */
+ * for example Elsayed Ayman's ID = 1000 ;) */
 #define PORT_VENDOR_ID    (1000U)
 
 /* Port Module Id */
